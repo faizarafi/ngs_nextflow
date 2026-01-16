@@ -2,7 +2,7 @@
 
 process fastp_process {
 
-//for fastp process, make directory fastp_res for outpus
+//for fastp process, make directory fastp_res for outputs
 //input val for sample_id and paths for the pair of reads (raw fastq)
 //output val for sample_id and path to processed fastq
 //in script, load fastp module and run fastp with given inputs and listed parameters to output pair of reads
