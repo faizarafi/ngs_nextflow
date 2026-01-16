@@ -12,4 +12,4 @@
 
 module load nextflow/23.04.1
 
-nextflow run test2.nf -c test.config
+nextflow run nextflow_workflow.nf -c test.config
